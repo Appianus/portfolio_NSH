@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f16390b.css",
-    "main.js": "/static/js/main.4ae7cd54.js",
-    "static/js/787.deeec6c3.chunk.js": "/static/js/787.deeec6c3.chunk.js",
-    "static/media/React.jpg": "/static/media/React.3525b44704269eaaf0b5.jpg",
-    "static/media/JavaScript.jpg": "/static/media/JavaScript.41a0b0f823190c6b0992.jpg",
-    "static/media/CSS.jpg": "/static/media/CSS.c7d746c9eb1a443122db.jpg",
-    "static/media/HTML.jpg": "/static/media/HTML.37dc7f1f370dfb0a63ed.jpg",
-    "index.html": "/index.html",
-    "main.3f16390b.css.map": "/static/css/main.3f16390b.css.map",
-    "main.4ae7cd54.js.map": "/static/js/main.4ae7cd54.js.map",
-    "787.deeec6c3.chunk.js.map": "/static/js/787.deeec6c3.chunk.js.map"
+    "main.css": "//appianus.github.io/portfolio_NSH/static/css/main.3f16390b.css",
+    "main.js": "//appianus.github.io/portfolio_NSH/static/js/main.2817b61b.js",
+    "static/js/787.deeec6c3.chunk.js": "//appianus.github.io/portfolio_NSH/static/js/787.deeec6c3.chunk.js",
+    "static/media/React.jpg": "//appianus.github.io/portfolio_NSH/static/media/React.3525b44704269eaaf0b5.jpg",
+    "static/media/JavaScript.jpg": "//appianus.github.io/portfolio_NSH/static/media/JavaScript.41a0b0f823190c6b0992.jpg",
+    "static/media/CSS.jpg": "//appianus.github.io/portfolio_NSH/static/media/CSS.c7d746c9eb1a443122db.jpg",
+    "static/media/HTML.jpg": "//appianus.github.io/portfolio_NSH/static/media/HTML.37dc7f1f370dfb0a63ed.jpg",
+    "index.html": "//appianus.github.io/portfolio_NSH/index.html",
+    "main.3f16390b.css.map": "//appianus.github.io/portfolio_NSH/static/css/main.3f16390b.css.map",
+    "main.2817b61b.js.map": "//appianus.github.io/portfolio_NSH/static/js/main.2817b61b.js.map",
+    "787.deeec6c3.chunk.js.map": "//appianus.github.io/portfolio_NSH/static/js/787.deeec6c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f16390b.css",
-    "static/js/main.4ae7cd54.js"
+    "static/js/main.2817b61b.js"
   ]
 }
