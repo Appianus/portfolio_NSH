@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio_NSH/static/css/main.b72db51c.css",
+    "main.css": "/portfolio_NSH/static/css/main.db3f2807.css",
     "main.js": "/portfolio_NSH/static/js/main.0332b940.js",
     "static/js/787.deeec6c3.chunk.js": "/portfolio_NSH/static/js/787.deeec6c3.chunk.js",
     "static/media/React.jpg": "/portfolio_NSH/static/media/React.3525b44704269eaaf0b5.jpg",
@@ -8,12 +8,12 @@
     "static/media/CSS.jpg": "/portfolio_NSH/static/media/CSS.c7d746c9eb1a443122db.jpg",
     "static/media/HTML.jpg": "/portfolio_NSH/static/media/HTML.37dc7f1f370dfb0a63ed.jpg",
     "index.html": "/portfolio_NSH/index.html",
-    "main.b72db51c.css.map": "/portfolio_NSH/static/css/main.b72db51c.css.map",
+    "main.db3f2807.css.map": "/portfolio_NSH/static/css/main.db3f2807.css.map",
     "main.0332b940.js.map": "/portfolio_NSH/static/js/main.0332b940.js.map",
     "787.deeec6c3.chunk.js.map": "/portfolio_NSH/static/js/787.deeec6c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b72db51c.css",
+    "static/css/main.db3f2807.css",
     "static/js/main.0332b940.js"
   ]
 }
